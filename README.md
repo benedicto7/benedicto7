@@ -1,5 +1,9 @@
 <h1 align="center">Hello! Salam Kenal! 你好！こんにちわ! 👋</h1>
 
+<img src="https://user-images.githubusercontent.com/90052277/188746989-9540b431-1c0a-4a67-bb46-993e63c1f1ac.jpg">
+![IMG_1033 (2)](https://user-images.githubusercontent.com/90052277/188746989-9540b431-1c0a-4a67-bb46-993e63c1f1ac.jpg)
+
+
 <h1>Biography: </h1>
 Name: Ben Elpidius
 Birthday:
