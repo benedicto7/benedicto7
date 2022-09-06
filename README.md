@@ -1,6 +1,6 @@
 <h1 align="center">Hello! Salam Kenal! 你好！こんにちわ! 👋</h1>
 
-<img src="https://user-images.githubusercontent.com/90052277/188746989-9540b431-1c0a-4a67-bb46-993e63c1f1ac.jpg" width=300 height=300>
+<img src="https://user-images.githubusercontent.com/90052277/188746989-9540b431-1c0a-4a67-bb46-993e63c1f1ac.jpg" width=500 height=300>
 
 
 <h1>Biography: </h1>
