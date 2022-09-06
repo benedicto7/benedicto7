@@ -1,5 +1,7 @@
 <h1 align="center">Hello! Salam Kenal! 你好！こんにちわ! 👋</h1>
-### Hi there, I'm [Ben Elpidius]() 👋
+
+<h1 align="center">Biography: </h1>
+Name: [Ben Elpidius]() 👋
 
 I am a...
 
