@@ -9,7 +9,9 @@ Major:
 <h1>About Me: </h1>
 
 
-interest/hobbies, reach me
+<h1>Interests/Hobbies: </h1>
+
+<h1>Languages/Skills: </h1>
 
 <h1>How to Reach Me: </h1>
 <p align = "center">
