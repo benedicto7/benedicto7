@@ -1,5 +1,4 @@
-# Hello! Salam Kenal! 你好！こんにちわ!
-<h1 align="center">Hi 👋, I'm Minh Vy Ha</h1>
+<h1 align="center">Hello! Salam Kenal! 你好！こんにちわ! 👋, I'm Minh Vy Ha</h1>
 
 
 ### Hi there, I'm [Ben Elpidius]() 👋
