@@ -3,7 +3,7 @@
 
 
 <h1>Biography: </h1>
-Name: Ben Elpidius
+Name: Ben Elpidius 
 
 Birthday: 7/7/2002
 
