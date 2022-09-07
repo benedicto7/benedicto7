@@ -4,15 +4,10 @@
 
 <h1>Biography: </h1>
 Name: Ben Elpidius
-
 Birthday: 7/7/2002
-
 Nationality: Indonesian
-
 Major: Computer Science
-
 Bachelor Degree: Calvin University
-
 <h1>About Me: </h1>
 
 
