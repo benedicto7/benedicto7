@@ -40,7 +40,7 @@ I am experienced with languages such as C++ and Python. Additionally, I am also 
   <li>Manga</li>
 </ul>
 
-<h1>How to Reach Me: </h1>
+<h2>How to Reach Me: </h2>
 <p>
  </br>
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
