@@ -8,7 +8,7 @@ Name: Ben Elpidius
 Birthday: 7/7/2002
 
 Nationality: Indonesian
-
+<br>
 Major: Computer Science
 
 Bachelor Degree: Calvin University
