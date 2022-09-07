@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/90052277/188746989-9540b431-1c0a-4a67-bb46-993e63c1f1ac.jpg" width=200 height=150>
 
 
-<h1>Biography: </h1>
+<h2>Biography: </h2>
 Name: Ben Elpidius
 
 Birthday: 7/7/2002
@@ -13,12 +13,12 @@ Major: Computer Science
 
 Bachelor Degree: Calvin University
 
-<h1>About Me: </h1>
+<h2>About Me: </h2>
 I am a junior student enrolled at Calvin University in a Computer Science degree. I am always sharpening my skills and learning new knowledge to become a Fullstack Developer/Software Developer.
 
 I am experienced with languages such as C++ and Python. Additionally, I am also somewhat familiar with HTML and CSS. 
 
-<h1>Interests/Hobbies: </h1>
+<h2>Interests/Hobbies: </h2>
 <ul>
   <li>Guitar</li>
   <li>Cooking</li>
@@ -29,7 +29,7 @@ I am experienced with languages such as C++ and Python. Additionally, I am also 
   <li>Manga</li>
 </ul>
 
-<h1>Languages/Skills: </h1>
+<h2>Languages/Skills: </h2>
 <!-- <p align="center">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
