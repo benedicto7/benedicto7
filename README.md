@@ -19,11 +19,15 @@ I am a junior student enrolled at Calvin University in a Computer Science degree
 I am experienced with languages such as C++ and Python. Additionally, I am also somewhat familiar with HTML and CSS. 
 
 <h1>Interests/Hobbies: </h1>
-* Guitar
-* Cooking
-* Playing sports
-* Playing games
-* History
+<ul>
+  <li>Guitar</li>
+  <li>Cooking</li>
+  <li>Playing Sports</li>
+   <li>Playing Games</li>
+  <li>History</li>
+  <li>Anime</li>
+  <li>Manga</li>
+</ul>
 
 <h1>Languages/Skills: </h1>
 <!-- <p align="center">
