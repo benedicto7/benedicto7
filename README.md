@@ -15,8 +15,6 @@ Bachelor Degree: Calvin University
 
 <h2>About Me: </h2>
 I am a junior student enrolled at Calvin University in a Computer Science degree. I am always sharpening my skills and learning new knowledge to become a Fullstack Developer/Software Developer.
-<br>
-I am experienced with languages such as C++ and Python. Additionally, I am also somewhat familiar with HTML and CSS. 
 
 <h2>Interests/Hobbies: </h2>
 <ul>
