@@ -5,13 +5,11 @@
 <h2>Biography: </h2>
 Name: Ben Elpidius
 <br>
-Birthday: 7/7/2002
-
 Nationality: Indonesian
 <br>
-Major: Computer Science
+Major/Degree: Computer Science
 <br>
-Bachelor Degree: Calvin University
+Education: Calvin University (Senior)
 
 <h2>About Me: </h2>
 I am a junior student enrolled at Calvin University in a Computer Science degree. I am always sharpening my skills and learning new knowledge to become a Fullstack Developer/Software Developer.
