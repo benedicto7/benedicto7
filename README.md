@@ -11,10 +11,10 @@ Nationality: Indonesian
 <br>
 Major/Degree: Computer Science
 <br>
-Education: Calvin University (Senior)
+Education: Calvin University
 
 <h2>About Me: </h2>
-I am a junior student enrolled at Calvin University in a Computer Science degree. I am always sharpening my skills and learning new knowledge to become a Fullstack Developer/Software Developer.
+I am a senior student currently enrolled at Calvin University in a Computer Science degree. I am always sharpening my skills and learning new knowledge to become a Fullstack Developer/Engineer. My interest lies in mobile/web development, cloud development, and game development.
 
 <h2>Interests/Hobbies: </h2>
 <ul>
@@ -24,9 +24,6 @@ I am a junior student enrolled at Calvin University in a Computer Science degree
   <li>Games</li>
   <li>Anime</li>
   <li>Manga</li>
-  <li>Mobile/Web Development</li>
-  <li>Game Development</li>
-  <li>Cloud Development</li>
   <li>World War 2 History</li>
 </ul>
 
