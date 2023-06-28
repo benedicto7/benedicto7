@@ -20,11 +20,14 @@ I am a junior student enrolled at Calvin University in a Computer Science degree
 <ul>
   <li>Guitar</li>
   <li>Cooking</li>
-  <li>Playing Sports</li>
-   <li>Playing Games</li>
-  <li>History</li>
+  <li>Sports</li>
+  <li>Games</li>
   <li>Anime</li>
   <li>Manga</li>
+  <li>Mobile/Web Development</li>
+  <li>Game Development</li>
+  <li>Cloud Development</li>
+  <li>World War 2 History</li>
 </ul>
 
 <h2>Languages/Skills: </h2>
