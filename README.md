@@ -29,13 +29,13 @@ I am a junior student enrolled at Calvin University in a Computer Science degree
 
 <h2>Languages/Skills: </h2>
 <ul>
+  <li>React Native/React.js</li>
+  <li>Angular</li>
+  <li>JavaScript/TypeScript</li>
+  <li>C++/C#</li>
   <li>Python</li>
-  <li>C++</li>
-  <li>Javascript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>React</li>
-  <li>Manga</li>
+  <li>HTML/CSS</li>
+  <li>Android Studio/Kotlin/Java (currently learning)</li>
 </ul>
 
 <h2>How to Reach Me: </h2>
