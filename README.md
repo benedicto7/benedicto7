@@ -35,7 +35,7 @@ I am a senior student currently enrolled at Calvin University in a Computer Scie
   <li>C++/C#</li>
   <li>Python</li>
   <li>HTML/CSS</li>
-  <li>Android Studio/Kotlin/Java (currently learning)</li>
+  <li>Android Studio-Java/Kotlin (currently learning)</li>
 </ul>
 
 <h2>How to Reach Me: </h2>
